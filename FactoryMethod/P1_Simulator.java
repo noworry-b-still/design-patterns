@@ -1,6 +1,6 @@
 
 
-package Factory;
+package FactoryMethod;
 
 
 // There is difference between factory pattern and
